@@ -20,6 +20,8 @@ module.exports = {
         tight: 1.2,
       },
       fontSize: {
+        '3xl': '2rem',
+        '4xl': '2.25rem',
         '5xl': '2.5rem',
         '6xl': '2.75rem',
         '7xl': '4.5rem',
